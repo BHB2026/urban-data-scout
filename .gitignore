@@ -6,3 +6,4 @@ dist/
 *.bat
 *.ps1
 .claude/
+.vercel/.env*
